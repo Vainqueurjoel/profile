@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+}
+.header{
+    background: grey;
+    padding: 20px;
+    height: auto;
+}
+.header img{
+    width: 100%;
+    height: auto;
+}
+.header-title{
+    margin-top: 0;
+}
+.header-nav{
+    margin: 20px 0;
+    text-align: center;
+}
+.main{
+    background: lightgrey;
+    padding: 20px;
+}
+.footer{
+    background: grey;
+    padding: 10px 20px;
+}
+p:first-of-type{
+    font-size: 20px;
+}
+
+.title-big{
+    color: black;
+}
+a{
+    color: white;
+}
+a:hover{
+    color: rgb(231, 238, 128);
+
+}
